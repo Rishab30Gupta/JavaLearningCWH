@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class A{
     public int a;
     public int rishab() {
@@ -25,10 +24,5 @@ public class cwh_12_methodOverriding {
 
         B b = new B();
         b.method2();
-=======
-public class cwh_12_methodOverriding {
-    public static void main(String[] args) {
-
->>>>>>> origin/main
     }
 }
